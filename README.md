@@ -18,7 +18,7 @@
 
 ### Util
 
-<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=square&logo=Visual Studio Code&logoColor=white"/> <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=square&logo=Eclipse IDE&logoColor=white"/> <img src="https://img.shields.io/badge/Slack-4A154B?style=square&logo=Slack&logoColor=white"/> <img src="https://img.shields.io/badge/Microsoft Teams-6264A7?style=square&logo=Microsoft Teams&logoColor=white"/> <img src="https://img.shields.io/badge/Notion-000000?style=square&logo=Notion&logoColor=white"/>
+<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=square&logo=Visual Studio Code&logoColor=white"/> <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=square&logo=IntelliJ IDEA&logoColor=white"/> <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=square&logo=Eclipse IDE&logoColor=white"/> <img src="https://img.shields.io/badge/Slack-4A154B?style=square&logo=Slack&logoColor=white"/> <img src="https://img.shields.io/badge/Microsoft Teams-6264A7?style=square&logo=Microsoft Teams&logoColor=white"/> <img src="https://img.shields.io/badge/Notion-000000?style=square&logo=Notion&logoColor=white"/>
 
 ### Node
 
