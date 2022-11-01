@@ -6,7 +6,7 @@
 
 ### Frameworks / Libaray
 
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=square&logo=Spring&logoColor=white"/> <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=square&logo=Spring Boot&logoColor=white"/> <img src="https://img.shields.io/badge/Jest-C21325?style=square&logo=Jest&logoColor=white"/> <img src="https://img.shields.io/badge/Jquery-0769AD?style=square&logo=jquery&logoColor=white"/> <img src="https://img.shields.io/badge/Gulp-CF4647?style=square&logo=Gulp&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=square&logo=Spring&logoColor=white"/> <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=square&logo=Spring Boot&logoColor=white"/> <img src="https://img.shields.io/badge/Gradle-02303A?style=square&logo=Gradle&logoColor=white"/> <img src="https://img.shields.io/badge/Jquery-0769AD?style=square&logo=jquery&logoColor=white"/> <img src="https://img.shields.io/badge/Gulp-CF4647?style=square&logo=Gulp&logoColor=white"/> <img src="https://img.shields.io/badge/Jest-C21325?style=square&logo=Jest&logoColor=white"/>
 
 ### Server
 
@@ -26,7 +26,7 @@
 
 ### Configuration Management
 
-<img src="https://img.shields.io/badge/Gitlab-FCA121?style=square&logo=Gitlab&logoColor=white"/> <img src="https://img.shields.io/badge/Github-181717?style=square&logo=Github&logoColor=white"/> <img src="https://img.shields.io/badge/Gradle-02303A?style=square&logo=Gradle&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=square&logo=Git&logoColor=white"/> <img src="https://img.shields.io/badge/Gitlab-FCA121?style=square&logo=Gitlab&logoColor=white"/> <img src="https://img.shields.io/badge/Github-181717?style=square&logo=Github&logoColor=white"/> 
 
   
 ## 📝 Studying
