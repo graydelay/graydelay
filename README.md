@@ -9,10 +9,9 @@
   <a href="https://github.com/graydelay"><img alt="solved.ac" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgraydelay&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=github&edge_flat=false)"/></a>
  
   <a href="https://velog.io/@graydelay"><img src="https://img.shields.io/badge/graydelay.log-3DDC84?style=flat-square&logo=Velog&logoColor=white"/></a>
-  <a href="https://graydelay.notion.site/graydelay/PROJECT-STUDY-LIST-be40536921c942fbad50fcb673b4a0ea"><img src="https://img.shields.io/badge/PROJECT & STUDY-ffffff?style=flat-square&logo=notion&logoColor=black"/></a>
+  <!--  <a href="https://graydelay.notion.site/graydelay/PROJECT-STUDY-LIST-be40536921c942fbad50fcb673b4a0ea"><img src="https://img.shields.io/badge/PROJECT & STUDY-ffffff?style=flat-square&logo=notion&logoColor=black"/></a> <a href="https://graydelay.notion.site/POP-NOTE-8dc86ccb0b1f40898708097a8e91ede8"><img src="https://img.shields.io/badge/POP NOTE-000000?style=flat-square&logo=notion&logoColor=white"/></a> -->
 
-  📝 <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=square&logo=Spring Security&logoColor=white"/> <img src="https://img.shields.io/badge/NestJS-E0234E?style=square&logo=NestJS&logoColor=white"/>
-  🎧 <a href="https://graydelay.notion.site/POP-NOTE-8dc86ccb0b1f40898708097a8e91ede8"><img src="https://img.shields.io/badge/POP NOTE-000000?style=flat-square&logo=notion&logoColor=white"/></a>
+  📝 <a><img src="https://img.shields.io/badge/Spring Security-6DB33F?style=square&logo=Spring Security&logoColor=white"/></a> <a><img src="https://img.shields.io/badge/NestJS-E0234E?style=square&logo=NestJS&logoColor=white"/></a>
   
   <br> 
 </div>
@@ -49,13 +48,7 @@
 
 <img src="https://img.shields.io/badge/Git-F05032?style=square&logo=Git&logoColor=white"/> <img src="https://img.shields.io/badge/Gitlab-FCA121?style=square&logo=Gitlab&logoColor=white"/> <img src="https://img.shields.io/badge/Github-181717?style=square&logo=Github&logoColor=white"/> 
 
-  
-## 📝 Studying
-
-<img src="https://img.shields.io/badge/Spring Security-6DB33F?style=square&logo=Spring Security&logoColor=white"/> <img src="https://img.shields.io/badge/NestJS-E0234E?style=square&logo=NestJS&logoColor=white"/>
 -->
-
-
 
 <!---
 - 👋 Hi, I’m @graydelay
