@@ -10,7 +10,7 @@
  
   <a href="https://velog.io/@graydelay"><img src="https://img.shields.io/badge/graydelay.log-3DDC84?style=flat-square&logo=Velog&logoColor=white"/></a> <!-- <a href=""><img src="https://img.shields.io/badge/TITLE-ffffff?style=flat-square&logo=notion&logoColor=black"/></a> -->
 
-  📝 <a><img src="https://img.shields.io/badge/Spring Security-6DB33F?style=square&logo=Spring Security&logoColor=white"/></a> <a><img src="https://img.shields.io/badge/NestJS-E0234E?style=square&logo=NestJS&logoColor=white"/></a>
+  📝 <a><img src="https://img.shields.io/badge/Spring Security-6DB33F?style=flat-square&logo=Spring Security&logoColor=white"/></a> <a><img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=NestJS&logoColor=white"/></a>
   
   <br> 
 </div>
