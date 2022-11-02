@@ -1,10 +1,30 @@
-## 👋 Hi, I’m @graydelay
+<div align="center">
+  
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=graydelay&theme=dracula&exclude_repo=Computer-Science-Engineering,clone-web-scrapper&hide=Procfile&layout=compact&langs_count=8"/>
+  
+  ### 🎯 graydelay 📸
+  
+  ---
+  
+  <a href="https://github.com/graydelay"><img alt="solved.ac" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgraydelay&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=github&edge_flat=false)"/></a>
+ 
+  <a href="https://velog.io/@graydelay"><img src="https://img.shields.io/badge/graydelay.log-3DDC84?style=flat-square&logo=Velog&logoColor=white"/></a>
+  <a href="https://graydelay.notion.site/graydelay/PROJECT-STUDY-LIST-be40536921c942fbad50fcb673b4a0ea"><img src="https://img.shields.io/badge/PROJECT & STUDY-ffffff?style=flat-square&logo=notion&logoColor=black"/></a>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgraydelay&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+  📝 Studying 📝<br/>
+  <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=square&logo=Spring Security&logoColor=white"/> <img src="https://img.shields.io/badge/NestJS-E0234E?style=square&logo=NestJS&logoColor=white"/>
 
+
+  <br> 
+</div>
+
+
+
+<!--
 ### Languages
 
 <img src="https://img.shields.io/badge/Java-007396?style=square&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=square&logo=JavaScript&logoColor=black"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=square&logo=TypeScript&logoColor=white"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=square&logo=HTML5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=square&logo=CSS3&logoColor=white"/> 
+
 
 ### Frameworks / Libaray
 
@@ -34,12 +54,9 @@
 ## 📝 Studying
 
 <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=square&logo=Spring Security&logoColor=white"/> <img src="https://img.shields.io/badge/NestJS-E0234E?style=square&logo=NestJS&logoColor=white"/>
+-->
 
 
-
-
-
-  
 
 <!---
 - 👋 Hi, I’m @graydelay
