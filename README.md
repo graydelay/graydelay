@@ -23,9 +23,9 @@
 
 <div align="center">
   
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=graydelay"/>
-
   ### 🛠 skills 🔧
+  
+  <img src="https://img.shields.io/badge/Java-007396?style=square&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=square&logo=JavaScript&logoColor=black"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=square&logo=TypeScript&logoColor=white"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=square&logo=HTML5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=square&logo=CSS3&logoColor=white"/>
     
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=square&logo=Spring&logoColor=white"/> <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=square&logo=Spring Boot&logoColor=white"/> <img src="https://img.shields.io/badge/Gradle-02303A?style=square&logo=Gradle&logoColor=white"/> <img src="https://img.shields.io/badge/Jquery-0769AD?style=square&logo=jquery&logoColor=white"/> <img src="https://img.shields.io/badge/Gulp-CF4647?style=square&logo=Gulp&logoColor=white"/> <img src="https://img.shields.io/badge/Jest-C21325?style=square&logo=Jest&logoColor=white"/> 
   
