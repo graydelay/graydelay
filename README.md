@@ -8,7 +8,7 @@
   
   <a href="https://github.com/graydelay"><img alt="solved.ac" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgraydelay&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=github&edge_flat=false)"/></a>
  
-  <a href="https://velog.io/@graydelay"><img src="https://img.shields.io/badge/graydelay.log-3DDC84?style=flat-square&logo=Velog&logoColor=white"/></a> <!--  <a href=""><img src="https://img.shields.io/badge/PROJECT & STUDY-ffffff?style=flat-square&logo=notion&logoColor=black"/></a> -->
+  <a href="https://velog.io/@graydelay"><img src="https://img.shields.io/badge/graydelay.log-3DDC84?style=flat-square&logo=Velog&logoColor=white"/></a> <!-- <a href=""><img src="https://img.shields.io/badge/TITLE-ffffff?style=flat-square&logo=notion&logoColor=black"/></a> -->
 
   📝 <a><img src="https://img.shields.io/badge/Spring Security-6DB33F?style=square&logo=Spring Security&logoColor=white"/></a> <a><img src="https://img.shields.io/badge/NestJS-E0234E?style=square&logo=NestJS&logoColor=white"/></a>
   
