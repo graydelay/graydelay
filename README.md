@@ -1,6 +1,6 @@
 <div align="center">
   
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=graydelay&layout=compact&langs_count=6"/>
+  <img style="@media (max-width: 650px) { display: none }"align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=graydelay&layout=compact&langs_count=6"/>
   
   ### 🎯 graydelay 📸
   
