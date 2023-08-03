@@ -32,5 +32,5 @@
   ##### 📝 study 📝
   
   <a><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/></a>
-  <br> 
+  <a><img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white"/></a>
 </div>
